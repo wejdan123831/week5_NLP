@@ -1,0 +1,7 @@
+
+ingredients/
+*.zip
+*100k*.tsv
+output/
+
+**/CVs/
